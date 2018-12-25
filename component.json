@@ -1,0 +1,15 @@
+{
+  "name": "ui_typography",
+  "version": "1.0.0",
+  "description": "Стили текста",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/ui_typography",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {
+    "scss_variables": "https://github.com/insales-components/scss_variables"
+  }
+}
